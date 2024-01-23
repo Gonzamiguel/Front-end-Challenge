@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,13 +13,10 @@
 
 ## Overview
 
-### Screenshot
-
-
 ### Links
 
-- Solution URL: 
-- Live Site URL: 
+- Solution URL: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+- Live Site URL: https://gonzamiguel.github.io/Front-end-Challenge/
 
 ## My process
 
@@ -43,7 +39,7 @@ In this challenge, I only implemented HTML and CSS, seeking to strengthen my exi
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - https://gonzamiguel.github.io/Front-end-Challenge/
+- Frontend Mentor - https://www.frontendmentor.io/profile/Gonzamiguel
 
 
